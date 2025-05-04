@@ -1,11 +1,11 @@
 import './App.css'
 import Footer from './components/Footer'
-import Contact from './pages/Contact'
-import Faq from './pages/Faq'
-import Home from './pages/Home'
-import Services from './pages/Services'
-import Testimonials from './pages/Testimonials'
-import WhyChooseUs from './pages/WhyChooseUs'
+import Contact from './components/Contact'
+import Faq from './components/Faq'
+import Home from './components/Home'
+import Services from './components/Services'
+import Testimonials from './components/Testimonials'
+import WhyChooseUs from './components/WhyChooseUs'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from 'react';

@@ -8,12 +8,12 @@ const Home = () => {
       <img
         src={Img}
         alt="Abstract Background"
-        className="absolute right-0 w-screen h-full object-cover  z-0 opacity-30"
+        className="absolute right-0 w-screen h-full object-cover z-0 opacity-5"
       />
       <div className="relative z-10 flex justify-center items-center text-center w-full h-full max-w-[85rem] px-4 sm:px-6 lg:px-8 mx-auto">
         <div>
-          <h1 className="lg:text-6xl md:text-4xl md:text-center text-start text-2xl font-bold text-white">
-            Boost Your Business with <br />
+          <h1 className="lg:text-6xl md:text-5xl md:text-center text-start text-3xl font-extrabold text-white">
+            Boost Your Business with
             Next-Gen Marketing Solutions!
           </h1>
           <p className="lg:text-lg md:text-xl md:text-center text-start text-sm text-white/80 max-w-2xl mx-auto pt-5">
